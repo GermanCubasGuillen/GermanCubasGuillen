@@ -2,7 +2,6 @@
 
 Si has llegado hasta este sitio es porque estas interesado en alguno de los proyectos en los que estoy trabajando, o quieres ver algunos de los ejemplos que he realizado, de la forma que sea, eres bienvenido 👋.
 
-- 🔭 Actualmente estoy trabajando como economista en la CCE.
 - 🌱 Aunque el campo que más domino es la ciencia de datos, empleando R y Python, en la actualidad me esfuerzo por aprender automatización.
 
 
